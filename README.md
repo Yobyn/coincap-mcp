@@ -16,7 +16,7 @@ To get started, add this configuration to your Claude Desktop config file:
 ```json
 {
   "mcpServers": {
-    "mongodb": {
+    "coincap": {
       "command": "npx",
       "args": ["coincap-mcp"]
     }
